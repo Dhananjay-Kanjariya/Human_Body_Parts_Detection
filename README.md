@@ -15,11 +15,7 @@ This is a lightweight web application that allows users to upload any image of a
 
 ## 🎥 Demo
 
-<video src="Demo.mp4" controls width="100%" style="max-width: 600px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
-  Your browser does not support the video tag.
-</video>
-
-🎬 [Click here to watch the demo](Demo.mp4)
+![Demo](Demo.gif)
 
 
 ## 📸 Detected & Labeled Body Parts
