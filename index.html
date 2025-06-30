@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>🧍 Human Body Hover Detection</title>
+  <link rel="stylesheet" href="style.css" />
+
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@4.9.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/pose-detection"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@mediapipe/pose"></script>
+</head>
+<body>
+  <h1>🧍 Human Body Hover Detection</h1>
+  <input type="file" id="upload" accept="image/*" />
+
+  <div id="main">
+    <div class="canvas-wrapper">
+      <canvas id="canvas"></canvas>
+    </div>
+    <div class="legend">
+      <h3>Body Part Legend</h3>
+      <ul id="legendList"></ul>
+    </div>
+  </div>
+
+  <div id="tooltip" class="tooltip-box"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
