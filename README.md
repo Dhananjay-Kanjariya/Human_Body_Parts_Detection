@@ -15,7 +15,7 @@ This is a lightweight web application that allows users to upload any image of a
 
 ## 🎥 Demo
 
-![Demo](demo.gif)
+![Demo](demo.mp4)
 
 
 ## 📸 Detected & Labeled Body Parts
