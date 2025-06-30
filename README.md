@@ -15,11 +15,11 @@ This is a lightweight web application that allows users to upload any image of a
 
 ## 📸 Detected & Labeled Body Parts
 
-- **Face** (nose, eyes)
+- **Face** 
 - **Left/Right Arm**
 - **Left/Right Elbow**
 - **Left/Right Hand**
-- **Chest Center** (midpoint between shoulders)
+- **Chest Center** (midpoint between shoulders) - Not Proper Always
 - **Left/Right Thigh** (midpoint between hips & knees)
 - **Left/Right Knee**
 - **Left/Right Foot**
