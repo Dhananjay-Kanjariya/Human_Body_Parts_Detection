@@ -13,6 +13,11 @@ This is a lightweight web application that allows users to upload any image of a
 
 ---
 
+## 🎥 Demo
+
+![Demo](demo.gif)
+
+
 ## 📸 Detected & Labeled Body Parts
 
 - **Face** 
