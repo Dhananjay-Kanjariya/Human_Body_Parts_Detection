@@ -37,13 +37,3 @@ This is a lightweight web application that allows users to upload any image of a
 - **[TensorFlow.js](https://www.tensorflow.org/js)**
 - **[MoveNet Thunder Model](https://www.tensorflow.org/hub/tutorials/movenet)**
 
----
-
-## 🚀 Getting Started
-
-To run the project locally:
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/human-body-hover.git
-cd human-body-hover
