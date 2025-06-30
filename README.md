@@ -35,7 +35,7 @@ This is a lightweight web application that allows users to upload any image of a
 
 - **HTML5**, **CSS3**, **JavaScript**
 - **[TensorFlow.js](https://www.tensorflow.org/js)**
-- **[MoveNet Thunder Model](https://www.tensorflow.org/js/models/pose_detection)**
+- **[MoveNet Thunder Model](https://www.tensorflow.org/hub/tutorials/movenet)**
 
 ---
 
