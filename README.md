@@ -33,8 +33,7 @@ This is a lightweight web application that allows users to upload any image of a
 
 ## 🛠️ Tech Stack
 
-- **HTML5**, **CSS3**
-- **JavaScript (Vanilla + Canvas API)**
+- **HTML5**, **CSS3**, **JavaScript**
 - **[TensorFlow.js](https://www.tensorflow.org/js)**
 - **[MoveNet Thunder Model](https://www.tensorflow.org/js/models/pose_detection)**
 
